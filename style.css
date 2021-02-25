@@ -1,0 +1,10 @@
+a[href]:hover {
+    color: aqua;
+}
+h1::after {
+    content: "!!!!";
+}
+p::first-letter {
+    color: brown;
+    font-size: large;
+}
